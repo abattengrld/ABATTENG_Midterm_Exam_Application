@@ -70,7 +70,7 @@ class ProductController extends Controller
                 'price' => 25.00
             ],
         ];
-        return view('view_name', compact('data'));
+        return view('books', compact('data'));
 
     }
 }
