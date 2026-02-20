@@ -1,0 +1,4 @@
+[mcp_servers.laravel-boost]
+command = "php"
+args = ["artisan", "boost:mcp"]
+cwd = "/workspaces/ABATTENG_Midterm_Exam_Application/ABATTENG_Midterm_Exam_Application"
